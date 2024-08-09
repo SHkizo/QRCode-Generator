@@ -23,7 +23,7 @@ body{
     margin-bottom: 8px;
 }
 .container input{
-    width: 100%;
+    width: 50%;
     height: 50%;
     border: 1px solid #494eea;
     outline: 0;
